@@ -53,8 +53,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sumanthburla/sumanthburla/.github/workflows/snake.yml" alt="Snake animation" />
-
 ###
 
 <br clear="both">
