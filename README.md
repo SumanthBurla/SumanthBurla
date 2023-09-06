@@ -53,7 +53,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/sumanthburla/sumanthburla/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/sumanthburla/sumanthburla/.github/workflows/snake.yml" alt="Snake animation" />
 
 ###
 
