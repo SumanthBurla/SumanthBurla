@@ -2,23 +2,6 @@
 
 <h2 align="center">Hi 👋! My name is Sumanth Burla and I'm Cloud Engineer, from Telangana.</h2>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=sumanthburla&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sumanthburla&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sumanthburla&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <div align="center">
