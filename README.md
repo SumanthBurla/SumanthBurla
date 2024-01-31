@@ -43,9 +43,6 @@
   <a href="https://www.hackerrank.com/Sumanthburla12" target="_blank">
     <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=plastic" height="35" alt="hackerrank logo"  />
   </a>
-  <a href="https://www.instagram.com/sumanth_burla/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
-  </a>
 </div>
 
 ###
