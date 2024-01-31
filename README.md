@@ -7,11 +7,11 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="50" alt="googlecloud logo"  />
   <img width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
   <img width="50" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="amazonwebservices logo"  />
   <img width="50" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="50" alt="terraform logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
   <img width="50" />
