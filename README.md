@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Hi 👋! My name is Sumanth Burla and I'm Cloud Engineer, from Telangana.</h2>
+<h2 align="center">Hi 👋! My name is Sumanth Burla and I'm Cloud & DevOps Engineer</h2>
 
 <br clear="both">
 
